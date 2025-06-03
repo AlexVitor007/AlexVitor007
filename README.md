@@ -1,5 +1,7 @@
 ### Olá, eu sou o Alex Vitor 🚀
 
+
+REDE SOCIAL MAIS UTILIZADA:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexvitor.dev17?igsh=MXhjY3dkaDk3NXg2Mg==)
 
 
