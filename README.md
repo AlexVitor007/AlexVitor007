@@ -62,7 +62,7 @@ Tive contato com essas tecnologias que me interessaram bastante:
     <img src="https://img.shields.io/badge/-Instagram-%23FF3C3C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="alexvitor.t.c1509@gmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-%23007BFF?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/alex-vitor-baa791382/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
