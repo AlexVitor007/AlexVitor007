@@ -61,7 +61,7 @@ Tive contato com essas tecnologias que me interessaram bastante:
   <a href="https://www.instagram.com/alexvitor.dev17" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23FF3C3C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="alexvitor.t.c1509@gmail.com">
+  <a href="Alex Vitor <alexvitor.t.c1509@gmail.com>">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/alex-vitor-baa791382/" target="_blank">
