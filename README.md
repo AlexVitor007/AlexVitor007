@@ -12,7 +12,7 @@ Desafios como ferramenta de evolução!
 ## 🚀 Vamos nos Conectar!
 
 
-[View my GitHub](https://github.com/RicardoVCastilho)
+[View my GitHub](https://github.com/AlexVitor007o)
 
 <br><br>
 
