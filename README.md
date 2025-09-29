@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to Alex Vitor's Profile</h1>
+  <h1 align="center">Bem vindo(a) ao meu Perfil!</h1>
 </p>
 
 ```bash
@@ -16,7 +16,7 @@ Desafios como ferramenta de evolução!
 <br><br>
 
 <div align="center" style="margin-bottom:100px">
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  ![AlexVitor007 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexVitor007&show_icons=true&theme=dark)
 </div>
 
 
