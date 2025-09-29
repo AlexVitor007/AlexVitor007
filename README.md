@@ -15,9 +15,7 @@ Desafios como ferramenta de evolução!
 
 <br><br>
 
-<div align="center" style="margin-bottom:100px">
-  ![AlexVitor007 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexVitor007&show_icons=true&theme=dark)
-</div>
+![AlexVitor007 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexVitor007&show_icons=true&theme=dark)
 
 
 &nbsp;
