@@ -4,7 +4,7 @@
 
 ```bash
  # Olá!👋
-Futuro Cientista de Dados/ Desenvolvedor 💻
+Futuro Analista de Dados/ Desenvolvedor 💻
 Cursando Ciência da Computação 🎓
 Desafios como ferramenta de evolução!
 ````
