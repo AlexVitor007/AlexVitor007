@@ -12,7 +12,7 @@ Desafios como ferramenta de evolução!
 ## 🚀 Vamos nos Conectar!
 
 
-[View my GitHub](https://github.com/AlexVitor007o)
+[View my LinkedIn](www.linkedin.com/in/alex-vitor-baa791382)
 
 <br><br>
 
